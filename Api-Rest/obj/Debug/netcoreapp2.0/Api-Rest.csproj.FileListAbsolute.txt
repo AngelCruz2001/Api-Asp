@@ -1,0 +1,11 @@
+C:\Users\retan\source\repos\Api-Rest\Api-Rest\bin\Debug\netcoreapp2.0\Api-Rest.deps.json
+C:\Users\retan\source\repos\Api-Rest\Api-Rest\bin\Debug\netcoreapp2.0\Api-Rest.runtimeconfig.json
+C:\Users\retan\source\repos\Api-Rest\Api-Rest\bin\Debug\netcoreapp2.0\Api-Rest.runtimeconfig.dev.json
+C:\Users\retan\source\repos\Api-Rest\Api-Rest\bin\Debug\netcoreapp2.0\Api-Rest.dll
+C:\Users\retan\source\repos\Api-Rest\Api-Rest\obj\Debug\netcoreapp2.0\Api-Rest.csprojAssemblyReference.cache
+C:\Users\retan\source\repos\Api-Rest\Api-Rest\obj\Debug\netcoreapp2.0\Api-Rest.csproj.CoreCompileInputs.cache
+C:\Users\retan\source\repos\Api-Rest\Api-Rest\obj\Debug\netcoreapp2.0\Api-Rest.AssemblyInfoInputs.cache
+C:\Users\retan\source\repos\Api-Rest\Api-Rest\obj\Debug\netcoreapp2.0\Api-Rest.AssemblyInfo.cs
+C:\Users\retan\source\repos\Api-Rest\Api-Rest\bin\Debug\netcoreapp2.0\Api-Rest.pdb
+C:\Users\retan\source\repos\Api-Rest\Api-Rest\obj\Debug\netcoreapp2.0\Api-Rest.dll
+C:\Users\retan\source\repos\Api-Rest\Api-Rest\obj\Debug\netcoreapp2.0\Api-Rest.pdb
